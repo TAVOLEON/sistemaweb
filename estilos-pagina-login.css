@@ -1,0 +1,48 @@
+/**********ESTILOS DE LA PAGINA PRINCIPAL*********/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+  }
+.header{
+    background-color: #FFA446;
+    font-size: large;
+    font-family: 'Lobster', cursive;
+}
+
+.titulos{
+    font-family: 'Lobster', cursive;
+}
+
+.body {
+    background-color: #F18052;
+}
+
+.footer {
+    background-color: #E35B5D;
+}
+
+.button {
+    -webkit-transition-duration: 0.5s; 
+    transition-duration: 0.5s;
+    background-color: #F18052;
+    font-family: 'Lobster', cursive;
+    border-radius: 8px;
+}
+
+.button:hover {
+    background-color: #E35B5D; 
+    color: white;
+    border-radius: 8px;
+}
+
+/***************ESTILOS DE FORM DE INGRESO *****************/
+  
+  .controls {
+    border: 1px solid #E35B5D;
+    font-family: 'Lobster', cursive;
+    font-size: 18px;
+    color: black;
+  }
+  
